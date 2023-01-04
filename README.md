@@ -2,9 +2,9 @@
 
 My name is Edmilson also known as Tunechi, I'm a Mozambican 🇲🇿 web developer.
 
-- 👨🏾‍💻 I'm skilled in ReactJS, NodeJS, SQL, MongoDB, Firebase and some more.
+- 👨🏾‍💻 I'm skilled in NuxtJS, ReactJS, NodeJS, SQL, MongoDB, Firebase and some more.
 - 💬 You can ask me about anything related to Algorithms & Data Structures.
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning tests
 - 🎥 I like to watch and memorize lines from films & TV Shows.
 - 😄 Pronouns: Dev/Mr/He/Him
 
